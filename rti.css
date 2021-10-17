@@ -1,0 +1,38 @@
+.granola{
+    color: white
+    
+  }
+  
+  .granola-main{
+    color: white
+  }
+  
+  .carousel-item {
+    height: 100vh;
+  }
+  
+  #about-section{
+    height: 100vh;
+    background-color: #FFB319
+    }
+  
+  #yoghurt-section {
+    height: 100vh;
+  }
+  
+  #spices-section {
+    height: 100vh;
+    }
+  #granola-section {
+    height: 100vh;
+    background-color: pink
+    }
+  #consultation-section{
+    height: 100vh;
+    background-color: #091353
+    }
+  
+    #contact-section{
+    height: 50vh;
+    background-color: #3D0000
+    }
